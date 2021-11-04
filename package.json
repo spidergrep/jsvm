@@ -1,0 +1,14 @@
+{
+    "name": "@spidergrep/jsvm",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/spidergrep/jsvm.git"
+    },
+    "author": "spidergrep",
+    "license": "AGPL",
+    "devDependencies": {
+        "node": "14.18.1",
+        "requirejs": "2.3.6"
+    }
+}
